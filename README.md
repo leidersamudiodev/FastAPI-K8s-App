@@ -1,4 +1,4 @@
-# 🐳FastAPI-K8s-App-Sistema-Distribuido-con-Minikube
+# 🐳FastAPI-K8s-App
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/879eb896-5483-4630-8107-ee8ef797caa6" />
 Este proyecto desarrolla una arquitectura de microservicios distribuida basada en FastAPI como framework principal, utilizando Redis para mensajería y caché, PostgreSQL como sistema de persistencia de datos y Nginx como proxy inverso y balanceador de carga. La solución se encuentra contenedorizada y orquestada en un clúster de Kubernetes (Minikube), garantizando escalabilidad, aislamiento de servicios y una gestión eficiente del tráfico y los recursos.
 
