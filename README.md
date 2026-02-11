@@ -188,8 +188,6 @@ minikube stop
 # 👨‍💻 Autor
 **Leider Samudio** - DevOps & Cloud Enthusiast
 
-<small>[GitHub: @jcontreras-dev](https://github.com/jcontreras-dev)</small>
-
 
 
 
